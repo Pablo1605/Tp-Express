@@ -1,0 +1,9 @@
+Tp Express
+
+Pasos para ejecutar el servidor:
+
+1-Ejecutar 'npm install' en la terminal.
+
+2-Moverse a la carpeta "servidor" con 'cd .\servidor\' y luego ejecutar el codigo con 'node app.js'.
+
+3-Por último abrir el servidor ejecutado en http://localhost:3000/ .
